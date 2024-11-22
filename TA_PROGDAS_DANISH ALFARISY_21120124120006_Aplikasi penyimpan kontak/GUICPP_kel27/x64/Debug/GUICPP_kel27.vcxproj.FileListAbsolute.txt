@@ -1,0 +1,5 @@
+C:\Users\ASUS\source\repos\GUICPP_kel27\GUICPP_kel27\x64\Debug\GUICPP_kel27.vcxproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\GUICPP_kel27\GUICPP_kel27\x64\Debug\GUICPPkel27.Registration.resources
+C:\Users\ASUS\source\repos\GUICPP_kel27\GUICPP_kel27\x64\Debug\GUICPPkel27.Login.resources
+C:\Users\ASUS\source\repos\GUICPP_kel27\GUICPP_kel27\x64\Debug\GUICPPkel27.Kontak.resources
+C:\Users\ASUS\source\repos\GUICPP_kel27\GUICPP_kel27\x64\Debug\GUICPP_kel27.vcxproj.GenerateResource.cache
